@@ -1,20 +1,11 @@
 package ejercicios;
 
-import java.util.Scanner;
-
-public class Ejercicio2 {
+public class Ejercicio10 {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        int a = 5;
+        int b = 2;
+        int resultado = a / b;
 
-        System.out.print("Ingrese su edad: ");
-        int edad = input.nextInt();
-
-        input.nextLine(); // limpiar buffer
-
-        System.out.print("Ingrese su nombre: ");
-        String nombre = input.nextLine();
-
-        System.out.println("Hola " + nombre + ", tenés " + edad + " años.");
+        System.out.println("Resultado: " + resultado);
     }
 }
-
