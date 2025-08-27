@@ -10,5 +10,3 @@
 Repositorio con proyectos y ejercicios en Java, enfocados en aplicar conceptos de POO como clases, objetos, métodos, encapsulamiento y modularización.
 
 ---
-
-## Estructura del Proyecto
